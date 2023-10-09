@@ -1,0 +1,15 @@
+In today's urban and security landscapes, efficiently and accurately recognizing and processing
+license plates has become increasingly essential. Manual methods are error-prone and time-consuming, 
+hindering tasks such as parking management, security monitoring, and law enforcement. To address this 
+challenge, we seek to develop a License Plate Recognition (LPR) app that leverages advanced technology to 
+detect, read, and store license plate information in real-time. This app aims to streamline processes in various sectors, 
+enhancing security, optimizing parking management, and improving access control, ultimately contributing to safer and more
+ efficient urban environments.​
+
+Assumptions
+
+ANPR camera should be installed at a height of 3-4 meters and at the centre of the lane.​
+The image captured from the camera should not contain any motion blur.​
+For good accuracy, there should be proper lighting during both the daytime and nightime(with good IR during the night).​
+Illumination should be Min 200 Lux.​
+Camera should be of good quality with high shutter speed. Full HD, 120 DB WDR, 20 fps frame rate is required.​

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <title>License Plate Recognition Result</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='result.css') }}">
+</head>
+
+<body>
+    <h1>License Plate Recognition Result</h1>
+    <p>Recognized License Plate Number:</p>
+    <h2>{{ plate_number }}</h2>
+    <p><a href="/">Upload Another Image</a></p>
+</body>
+
+</html>

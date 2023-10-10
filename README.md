@@ -15,3 +15,7 @@
 ![Untitled](https://github.com/shivam1750/Awiros-Openvino/blob/main/04.png)
 
 ![Untitled](https://github.com/shivam1750/Awiros-Openvino/blob/main/05.png)
+
+# DEPLOYEMENT ON FLASK  :→
+
+![Untitled](https://github.com/shivam1750/Awiros-Openvino/blob/main/09.png)

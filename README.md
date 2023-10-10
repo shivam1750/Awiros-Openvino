@@ -2,7 +2,7 @@
 
 # INITIAL STAGE :→
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/5a9c0b5f-b315-42a7-a4d7-a1903dd8b3dc/5fc2a33c-f80e-4f00-af91-40f8678639b4/Untitled.png)
+![Untitled]([https://prod-files-secure.s3.us-west-2.amazonaws.com/5a9c0b5f-b315-42a7-a4d7-a1903dd8b3dc/5fc2a33c-f80e-4f00-af91-40f8678639b4/Untitled.png](https://github.com/shivam1750/Awiros-Openvino/blob/main/01.png))
 
 # PRE-PROCESSING STAGE :→
 
